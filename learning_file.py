@@ -12,13 +12,13 @@
 
 6. ls
 
-7. 
+7. cd folder name
 
 8. mkdir
 
-9. 
+9. mv test.py backup/
 
-10.
+10. touch filename.txt
 
 11. for n in range(100):
         if n % 2 == 0:
@@ -35,6 +35,8 @@
 
 14. file = open(data.txt, "r"):
         prin
- 
+
+        
+15. 
 
 """
